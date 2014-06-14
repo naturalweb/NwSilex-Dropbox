@@ -1,5 +1,5 @@
 <?php
-namespace NwSilex\Dropbox;
+namespace NwSilex\Provider;
 
 use Silex\Application;
 use Silex\ServiceProviderInterface;

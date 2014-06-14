@@ -32,7 +32,7 @@ Run the Composer update comand
 In order to load and use a service provider, you must register it on the application
 
 ```php
-$app->register(new NwSilex\Dropbox\DropboxServiceProvider(), array(
+$app->register(new NwSilex\Provider\DropboxServiceProvider(), array(
     'dropbox.token' => 'your-token',
     'dropbox.app'   => 'your-app',
 ));
