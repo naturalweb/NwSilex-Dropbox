@@ -1,5 +1,9 @@
 NwSilex Dropbox
 ===============
+[![Build Status](https://travis-ci.org/naturalweb/NwSilex-Dropbox.svg?branch=master)](https://travis-ci.org/naturalweb/NwSilex-Dropbox)
+[![Coverage Status](https://coveralls.io/repos/naturalweb/NwSilex-Dropbox/badge.png?branch=master)](https://coveralls.io/r/naturalweb/NwSilex-Dropbox?branch=master)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/naturalweb/NwSilex-Dropbox/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/naturalweb/NwSilex-Dropbox/?branch=master)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/fb240746-fecd-4263-bcd3-065d2618c719/mini.png)](https://insight.sensiolabs.com/projects/fb240746-fecd-4263-bcd3-065d2618c719)
 
 This is a service provider for the Silex PHP Micro Framework, for usage client the of sdk-dropbox. [Core API](https://www.dropbox.com/developers/core/start/php)
 
