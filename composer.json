@@ -4,7 +4,7 @@
     "keywords": ["sdk-dropbox", "silex", "php", "dropbox"],
     "type": "library",
     "license": "BSD-3-Clause",
-    "homepage": "https://github.com/naturalweb/Silex-Dropbox",
+    "homepage": "https://github.com/naturalweb/NwSilex-Dropbox",
     "require": {
         "php": ">=5.3.0",
         "silex/silex": "~1.2",
